@@ -39,7 +39,7 @@ To use these data structures in your own projects, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/C-DataStructures.git
+   git clone https://github.com/EchoSingh/C-DataStructures.git
 
   ## License
 
